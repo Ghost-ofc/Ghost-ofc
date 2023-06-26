@@ -6,7 +6,9 @@
 
 ## 🌐 Socials:
 <div id="header" align="center">
-    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juan_93207)
+    <a href="https://www.instagram.com/juan_93207" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Telegram Badge">
+    </a>
 </div>
 <!--
 **Ghost-ofc/Ghost-ofc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
