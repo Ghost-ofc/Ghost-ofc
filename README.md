@@ -44,4 +44,4 @@
 ### My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ghost-ofc&theme=radical&hide_border=true&locale=es)](https://git.io/streak-stats)
-![Ghost GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Ghost GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghost&show_icons=true&theme=transparent)
