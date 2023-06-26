@@ -20,7 +20,7 @@
 
 ### 🧑‍💻 About Me :
 
-- 🌱 Aprendiendo a programar en **Python, Java, PHP, BASH**
+- 🌱 Aprendiendo a programar en **Python, Java, BASH**
 
 - 📫 Puedes contactarme a travez de **juan089207@gmail.com**
 
@@ -30,6 +30,7 @@
     <h3>🔨 Lenguajes and Tools</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="php" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="mysql" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="mongodb" width="40" height="40"/>&nbsp;
