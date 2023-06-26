@@ -16,6 +16,8 @@
     </a>
 </div>
 
+---
+
 ### 🧑‍💻 About Me :
 
 - 🌱 Aprendiendo a programar en **Python, Java, PHP, BASH**
