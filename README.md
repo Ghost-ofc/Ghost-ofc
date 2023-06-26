@@ -38,3 +38,9 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>&nbsp;
     </div>
 </div>
+
+---
+
+### My Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ghost-ofc&theme=radical&hide_border=true&locale=es)](https://git.io/streak-stats)
