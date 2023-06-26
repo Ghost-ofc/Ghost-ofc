@@ -3,6 +3,10 @@
     <h1 align="center">Hola, yo soy Ghost</h1>
     <h3 align="center">Me encanta la programacion y la ciberseguridad</h3>
 </div>
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juan_93207)
+
 <!--
 **Ghost-ofc/Ghost-ofc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
