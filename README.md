@@ -1,5 +1,8 @@
-### Hi there 👋
-
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/3oKIPa3AeDQ56ntX4k/giphy.gif" width="200">
+    <h1 align="center">Hola, yo soy Ghost</h1>
+    <h3 align="center">Me encanta la programacion y la ciberseguridad</h3>
+</div>
 <!--
 **Ghost-ofc/Ghost-ofc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
