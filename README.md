@@ -44,7 +44,7 @@
 
 ### My Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ghost-ofc&theme=tokyonight-duo&locale=es&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ![Ghost GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghost-ofc&show_icons=true&theme=transparent)
 
