@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://cdn.dribbble.com/users/206160/screenshots/3473020/media/441c3ddb6451ed460e903d05bb4b6545.gif" width="200">
+    <img src="https://pixabay.com/gifs/spooky-ghost-emoji-transparent-4198/" width="200">
     <h1 align="center">Hello, I am Ghost</h1>
     <h3 align="center">I love programming and cybersecurity</h3>
 </div>
