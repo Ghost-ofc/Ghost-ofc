@@ -24,7 +24,8 @@
 
 - 📫 Puedes contactarme a travez de **juan089207@gmail.com**
 
-- 👻 Me gusta todo lo relacionado con la Seguridad informatica
+- 👻 Me gusta todo lo relacionado a la Cyberseguridad y la programacion
+  
 
 <div align="left">
     <h3>🔨 Lenguajes and Tools</h3>
