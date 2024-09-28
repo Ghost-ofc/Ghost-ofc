@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="200">
+    <img src="https://dribbble.com/shots/3473020-Cute-Ghost/attachments/9845214?mode=media" width="200">
     <h1 align="center">Hello, I am Ghost</h1>
     <h3 align="center">I love programming and cybersecurity</h3>
 </div>
