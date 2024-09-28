@@ -20,7 +20,7 @@
 
 ### 🧑‍💻 About Me :
 
-- 🌱 Aprendiendo a programar en **Python, Java, BASH**
+- 🌱 Aprendiendo a programar en **Java, Kotlin**
 
 - 📫 Puedes contactarme a travez de **juan089207@gmail.com**
 
