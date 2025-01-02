@@ -1,6 +1,5 @@
 <div id="header" align="center">
-    <img src="https://cdn.pixabay.com/animation/2023/02/25/03/36/03-36-49-666_512.gif" width="200">
-    <h1 align="center">Hello, I am Ghost</h1>
+    <h1 align="center">Hello, I am Juan</h1>
     <h3 align="center">I love programming and cybersecurity</h3>
 </div>
 
