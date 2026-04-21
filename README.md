@@ -1,86 +1,90 @@
-# Welcome, I'm Juan Gutierrez 👋
+<div align="center">
 
-### Developer
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ghost-ofc&theme=transparent&locale=es)](https://git.io/streak-stats)
+# 👋 Hola, soy Juan Gutiérrez
 
-### 🧑‍💻 About Me :
-I really enjoy ⭐ everything related to technology 🤖, programming 👨‍💻, and I am passionate about mobile development and cybersecurity.
+### Desarrollador Full Stack | DevSecOps Engineer
 
-🌿 Trying to become a better person every day.
-</br>
-⌛ I enjoy personal development and productivity.
-</br>
-🫂 I enjoy working in teams and collaborating with other people.
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ghost-ofc&theme=transparent&locale=es&hide_border=true)](https://git.io/streak-stats)
 
-## Technologies:
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="dart"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="sklearn"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="terraform"  />
-  <img width="12" />
 </div>
 
-## Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@JuanGutierrez-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-gutierrez-322403258/)
-[![Email](https://img.shields.io/badge/juan089207@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:juan089207@gmail.com)
+---
 
+## 🚀 Sobre Mí
+
+Desarrollador Full Stack enfocado en **DevSecOps**. Trabajo con React, Java y TypeScript, implementando CI/CD y buenas prácticas de seguridad en cada etapa del desarrollo.
+
+```
+💻 Full Stack Developer  |  🔐 DevSecOps  |  🚀 CI/CD
+```
+
+- 🔒 Enfocado en seguridad desde el diseño hasta el despliegue
+- 🌱 En constante aprendizaje de DevSecOps y automatización
+- 🤝 Disfruto el trabajo en equipo y la colaboración
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghost-ofc&show_icons=true&theme=transparent&hide_border=true&locale=es&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost-ofc&layout=compact&theme=transparent&hide_border=true&locale=es)
+
+</div>
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### Frontend & Mobile
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nextjs,flutter,dart,figma" height="40" alt="frontend stack" />
+</div>
+
+### Backend & Frameworks
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,php,python,kotlin" height="40" alt="backend stack" />
+</div>
+
+### Bases de Datos
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase" height="40" alt="database stack" />
+</div>
+
+### DevOps & Cloud
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,terraform,githubactions,vercel,cloudflare" height="40" alt="devops stack" />
+</div>
+
+### Machine Learning & AI
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" height="40" alt="ml stack" />
+</div>
+
+### Herramientas & Entorno
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,powershell,md" height="40" alt="tools stack" />
+</div>
+
+---
+
+## 📫 Contacto
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Gutierrez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-gutierrez-322403258/)
+[![Email](https://img.shields.io/badge/Email-juan089207@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan089207@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+**"El código limpio no se escribe siguiendo reglas. Se escribe con práctica y dedicación."**
+
+⭐ Si te gusta mi trabajo, no dudes en darle una estrella a mis repositorios
+
+</div>
